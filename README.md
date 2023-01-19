@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saitejad007, you can call me Tej!
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning Next.Js
 - 📫 How to reach me -> gmail: saitejadevineni@gmail.com
 - 🖥️ Portfolio - https://saiteja7-portfolio.netlify.com/
 
