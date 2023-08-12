@@ -2,7 +2,7 @@
 - 👀 I’m a full-stack developer
 - 🌱 I’m currently learning Next.Js
 - 📫 How to reach me -> gmail: saitejadevineni@gmail.com
-- 🖥️ Portfolio - https://saiteja7-portfolio.netlify.com/
+- 🖥️ Portfolio - https://saiteja-devineni.netlify.com/
 
 <!---
 Saitejad007/Saitejad007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
