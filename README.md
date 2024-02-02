@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saitejad007, you can call me Tej!
 - 👀 I’m a full-stack developer
-- 🌱 I’m currently learning Next.Js
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me -> gmail: saitejadevineni@gmail.com
 - 🖥️ Portfolio - https://saiteja-devineni.netlify.com/
 
